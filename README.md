@@ -77,4 +77,4 @@ The Android Chatting App is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact the project maintainer at [aasifalee.114.com](mailto:email@example.com).
+If you have any questions or suggestions, feel free to contact the project maintainer at aasifalee.114@gamil.com.
